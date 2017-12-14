@@ -1,7 +1,7 @@
 # testproject
 This is a test project.
 
-Ivy
+[Ivy](https://github.com/ihonomichl)
 
 This is another change
 
